@@ -53,7 +53,7 @@ Thursday I had a crit and worked more on the group game.
 Getting motivated to start the undercooked game, because it seems very daunting at the moment.
 
 ###How I aim to solve these problems:
-I will read the Nerdy Nights 6502 tutorial that Ed suggested, and see if I can get a backround rendering before next week.
+I will read the Nerdy Nights 6502 tutorial that Ed suggested, and see if I can get a background rendering before next week.
 
 
 ##Week Five
@@ -70,3 +70,17 @@ Over the studio practice times next week I will try and understand Marcs grid sy
 
 ##Week Six
 Spent Monday catching up with tasks that I have let slip me by, such as the 310 community Wiki and this CPD, as well as work on the literature review draft.
+
+Spent Tuesday working on comp310
+Spent Wednesday working on literature review draft
+Spent Thursday working on website and portfolio stuffs
+Spent Friday working on CV and getting a CV template set up in latex because the CV I made in word looked rubbish.
+
+Problems I encountered this week:
+Didn't do as much work on the literature review as I should of by now.
+General lack of work this week because of various distractions.
+
+How I aim to overcome these issues:
+Work over the weekend to catch up on the work I am behind on.
+
+## Week Seven
