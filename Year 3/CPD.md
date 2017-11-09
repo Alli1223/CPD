@@ -84,3 +84,13 @@ How I aim to overcome these issues:
 Work over the weekend to catch up on the work I am behind on.
 
 ## Week Seven
+Monday I presented my literature review, which didn't go as badly as I was expecting. There were a few notes about my presentation, such as not much eye contact with the class when presenting and my slides had too much text on them. However I feel my presentation skills have improved since first year.
+
+Tuesday I had a supervisor meeting which helped me with how I am going to structure my essay and some more content to put in it.
+
+Wednesday I spent working on my dissertation, and managed to get a fair bit done, however I sill have a lot more to do before the peer review on Monday.
+
+
+Thursday I went into the studio to get perforce set up, but was uncussessful as my laptop had issues connecting to the perforce server, however it seems most of the team isnt using perforce yet, so I will try again next week to get that set up.
+
+Friday was the deadline for the CV and portfolio stuff.
