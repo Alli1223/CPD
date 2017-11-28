@@ -94,3 +94,35 @@ Wednesday I spent working on my dissertation, and managed to get a fair bit done
 Thursday I went into the studio to get perforce set up, but was uncussessful as my laptop had issues connecting to the perforce server, however it seems most of the team isnt using perforce yet, so I will try again next week to get that set up.
 
 Friday was the deadline for the CV and portfolio stuff.
+
+
+### Week Eight
+Most of this week was spent working on the research literature review.
+
+
+
+
+
+
+
+
+### Week Nine
+Most of this week was spent working on the Demake
+
+
+
+
+
+
+
+
+### Week Ten
+Most of this week was spent working on the group game and research artefact
+
+
+
+
+
+
+
+
