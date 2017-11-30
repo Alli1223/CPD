@@ -132,19 +132,26 @@ I ended up spending too much time on the aesthetics of the game opposed to the m
 * Spreading my time equally between the different modules
 
 ### How I aim to overcome these issues:
-* I will try and ask for more help when I do not know where to start with a merchanic, such as in the demakes.
+* I will try and ask for more help when I do not know where to start with a mechanic, such as in the demakes.
 * I will try over the next few weeks till the end of the semester to work on the last few modules equally, but prioritize the work that is due sooner.
 
 
 ## Week Ten
 Most of this week was spent working on the group game and research artefact.
 Tuesday I worked on the group project and tried to get perforce working on my laptop again, with no luck. I also had a supervisor meeting where I went of the GVG-AI framework and went over a few of the issues that I have been having with that, where the AI will just stand idle. This ended up being because the search function was not able to return the UCT value because it spent all of its time searching and didn't leave anytime to get the results. With a fix by Ed we got the competition framework working correctly.
+Wednesday I worked on the saving and loading of game saves within the group game.
+Thursday I had the PO meeting and worked more on the group game and got perforce working on the studio machines.
+
 
 ### Problems I encountered this week:
+* Learning how to commit and view changes within perforce.
+* Getting perforce set up on my laptop
+* Learning how the GVG-AI framework works, in depth.
 
 
 ### How I aim to overcome these issues:
-
+I will talk to a technician either later today or tomorrow to get perforce set up on my laptop, and will talk to my team about the best practices of using perforce.
+Over the weekend and next week I will try and get some preliminary results for my dissertation from the GVG-AI competition by adding some graphics features that will overlay when the AI competition runs. 
 
 
 
