@@ -91,33 +91,60 @@ Tuesday I had a supervisor meeting which helped me with how I am going to struct
 Wednesday I spent working on my dissertation, and managed to get a fair bit done, however I sill have a lot more to do before the peer review on Monday.
 
 
-Thursday I went into the studio to get perforce set up, but was uncussessful as my laptop had issues connecting to the perforce server, however it seems most of the team isnt using perforce yet, so I will try again next week to get that set up.
+Thursday I went into the studio to get perforce set up, but was unsuccessful as my laptop had issues connecting to the perforce server, however it seems most of the team isn't using perforce yet, so I will try again next week to get that set up.
 
 Friday was the deadline for the CV and portfolio stuff.
 
-
-### Week Eight
-Most of this week was spent working on the research literature review.
-
-
+### Problems I encountered this week:
+* I had issues correctly formatting my CV in latex.
+* The peer review for the website was a few hours before the deadline so there wasn't enough time to make meaningful changes based off peer feedback.
 
 
 
+### How I aim to overcome these issues:
+.In future I will ask for peer feedback of my work before the deadline so that it's not left till last minute, this also allows me to reformat things such as my CV and website in a much more meaningful way.
 
 
+## Week Eight
+Most of this week was spent working on the research literature review as the deadline was on Friday.
+On Tuesday I had a tutor meeting where I went over the current state of my literature review, I still have a lot of work to do to get it complete, as Ed gave a lot of useful feedback.
 
-### Week Nine
-Most of this week was spent working on the Demake
+Wednesday to Friday I spent on revising my literature review. I ended up spending a bit too much time on the formatting of the essay than the content, for example I spent at least 3-4 hours the night before just adding the UCB math formula in latex.
+
+### Problems I encountered this week:
+* Made a few typos in my literature review due to last minute revisions the night before.
+* Spent too long learning new features within latex, i.e. formulas and figures rather than writing the essay.
 
 
+### How I aim to overcome these issues:
+I managed to fix the issue by googling the issue instead of trying to work it out on my own, which I should of done from the start and I will try and do more often rather than waste time.
 
 
+## Week Nine
+Most of this week was spent working on the demake which was due in on Friday.
+However on Monday we went over the literature reviews, which I was shown where I made a few issues with my essay. The feedback was very useful and will feed forward into my dissertation.
+I did not spend enough time working on the demake though as I found a lot of the mechanics I am suppose to implement quite challenging.
+I ended up spending too much time on the aesthetics of the game opposed to the mechanics. 
 
 
+### Problems I encountered this week:
+* Lack of motivation to address the issues with my demake
+* Spreading my time equally between the different modules
+
+### How I aim to overcome these issues:
+* I will try and ask for more help when I do not know where to start with a merchanic, such as in the demakes.
+* I will try over the next few weeks till the end of the semester to work on the last few modules equally, but prioritize the work that is due sooner.
 
 
-### Week Ten
-Most of this week was spent working on the group game and research artefact
+## Week Ten
+Most of this week was spent working on the group game and research artefact.
+Tuesday I worked on the group project and tried to get perforce working on my laptop again, with no luck. I also had a supervisor meeting where I went of the GVG-AI framework and went over a few of the issues that I have been having with that, where the AI will just stand idle. This ended up being because the search function was not able to return the UCT value because it spent all of its time searching and didn't leave anytime to get the results. With a fix by Ed we got the competition framework working correctly.
+
+### Problems I encountered this week:
+
+
+### How I aim to overcome these issues:
+
 
 
 
