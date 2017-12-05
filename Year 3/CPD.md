@@ -155,6 +155,13 @@ Over the weekend and next week I will try and get some preliminary results for m
 
 
 
+## Week Eleven
+Monday I spent working on the saving system for the group game, and managed to get a basic saving system working. We also had a crit with Ed which went fine.
+Tuesday we had a PO meeting with rich which went pretty well, he seems happy with the progress we are making so far.
+
+### Problems I encountered this week:
+* Having time to focus on the research artifact
+### How I aim to overcome these issues
 
 
 
