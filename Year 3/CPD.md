@@ -175,19 +175,27 @@ I had a supervisor meeting which helped clarify which direction I should head wi
 I didn't add much to the group game this week as I was working on the research artifact.
 
 ### Problems I encountered this week:
-Motivation to focus on work when the holidays is so near.
+* Motivation to focus on work when the holidays is so near.
 
 ### How I aim to overcome these issues:
-Have set targets throughout the holidays to get some results for the viva week when we get back.
+* Have set targets throughout the holidays to get some results for the viva week when we get back.
 
 ## Xmas Holiday
+
 ## H1
 Didn't get much work done at the beginning of the week as I was traveling and getting set up back at home.
 Worked on getting visualizations working for the framework, I am having quite a few issues getting my head around recursion, because I haven't really touched it before and I have had a few issues with recursively searching the game search tree.
-However I created a visualizations class for the framewowrk and got the cells that have been searched getting rendered. One issue I have had with this is that MCTS only seems to be searching 4-5 cells within the game space, which seems far too small to what I thought it should be searching.
+However I created a visualizations class for the framework and got the cells that have been searched getting rendered. One issue I have had with this is that MCTS only seems to be searching 4-5 cells within the game space, which seems far too small to what I thought it should be searching.
+
+### Problems I encountered this week:
+* Trying to figure out how to recursively a game search tree.
+* Implementing new classes and working out what functions to use within the GVG-AI framework.
+
+### How I aim to overcome these issues:
+* I found some online resources that helped me get my head around recursively searching a tree.
 
 ## H2
-Didn't get any work done this week really. Although I did think a lot about how to get the recursion to work correctly.
+Didn't get any work done this week.
 
 ## H3
-Spent week 3 traveling back to Falmouth to start getting focused on work again.
+Spent week 3 traveling back to Falmouth and getting the CPD and reflective report done for the peer review Friday, which I didn't realize was being done.
