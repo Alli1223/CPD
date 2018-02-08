@@ -25,14 +25,21 @@ I'm still slightly unsure about how well my game will port to the PS4 though, as
 
 Tuesday I had a tutor meeting and discussed how my projects are doing, then spent the afternoon trying to get a json file loaded into r to be analyzed. 
 
+Wednesday I was stuck at home because the busses weren't running due to ice. So I spent a bit of the day working on the optimization proposal.
 
-
+Thursday I had a PO meeting that didn't go great, as the attendance of our team is pretty poor, but my poor attendance is due to working on other projects at home or in the library where it is quieter.
+The scope of the game has changed because of that, and we are now doing hotseat multiplayer, so the saving system I was working on isn't needed anymore..
+I have now started looking into doing cell shading and a fog of war system for the game.
 
 
 ### Problems I encountered this week:
 * Unsure about the complexity of my optimization project
 * lack of results for the dissertation
+* Having to stop working on a part of the group game because the scope of the game has changed
 
 ### How I aim to overcome these issues:
 * Send Brian a slack message on Wednesday to see if he can clarify the scope of my project before the deadline Friday.
 * By the beginning of next week I will aim to get some preliminary results from the artifact that I can show to my supervisor.
+* I will look into shaders within unity so I can start implementing some cell shading and fog of war.
+
+
