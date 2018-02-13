@@ -43,3 +43,16 @@ I have now started looking into doing cell shading and a fog of war system for t
 * I will look into shaders within unity so I can start implementing some cell shading and fog of war.
 
 
+## Week Three
+Monday I started the research journal for the optimisation task, which I am researching STL Containers and Algorithms.
+Tuesday we had the meeting with Rich and Martin, and Martin was really helpful for our team and tried to help us get back on track, where as Rich just seems to kill any team motivation.
+I have a meeting with Brian tomorrow about the team project..
+
+### Problems I encountered this week:
+* I've had to change what I am working on for the team game again for the third week in a row, as whatever I have been working on has been cut from the game.
+* The team game is not coming along well, but I feel like this isn't mine or toms fault because we put in the hours needed for the module, but this doesn't seem to be enough, but then the group module is taking up a lot of my time when it is only worth like 1/4 of one module.
+
+### How I aim to overcome these issues:
+* I am now working on something that is critical to the games functionality for a minimum viable product, so this should not get cut again before I am able to finish it.
+
+* I am going to focus more next week on the modules that are going to contribute more towards my final grade.
