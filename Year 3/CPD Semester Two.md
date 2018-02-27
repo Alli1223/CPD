@@ -71,15 +71,29 @@ Monday we had a lecture about data collection for our dissertation which was hel
 
 Tuesday I spent working on my dissertation and getting some results for the optimisation task.
 
+Spent the rest of the week working on various tasks.
 
-###Problems i encountered this week:
 
-
+###Problems I encountered this week:
+* Lack of motivation to go in to the studio to work
+* Lack of communication with team members
 
 ###How I aim to overcome theses issues:
+* 
 
 
 
+## Week Five
+Monday we had peer review of optimization task, and had to reschedule my supervisor meeting for a while.
+Tuesday I spent at home working on my website and CV as the peer review for that is fairly soon.
+
+Wednesday
+
+
+### Problems I encountered this week:
+
+
+### How I aim to overcome this tissues:
 
 
 
