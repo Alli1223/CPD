@@ -69,7 +69,7 @@ Friday I spent a bit of time working on the dissertation.
 
 Monday we had a lecture about data collection for our dissertation which was helpful, I'm glad I didn't choose to involve people in my dissertation because that would add a lot more work on top of the data gathering for the competition.
 
-Tuesday I spent working on my dissertation and getting some results for the optimisation task.
+Tuesday I spent working on my dissertation and getting some basic results for the optimisation task.
 
 Spent the rest of the week working on various tasks.
 
@@ -79,7 +79,7 @@ Spent the rest of the week working on various tasks.
 * Lack of communication with team members
 
 ###How I aim to overcome theses issues:
-* 
+* I will try and communicate more next week when I have studio hours.
 
 
 
@@ -87,13 +87,25 @@ Spent the rest of the week working on various tasks.
 Monday we had peer review of optimization task, and had to reschedule my supervisor meeting for a while.
 Tuesday I spent at home working on my website and CV as the peer review for that is fairly soon.
 
-Wednesday
+Wednesday I went to Gareth's lecture, where we went over other peers CVs and websites, then got snowed in the studio and spend Thursday at home because I couldn't get to studio.
 
+Friday I spent working on my optimization task, which I am really getting into, I spent that evening refactoring my rendering, so my game now uses an atlas to load textures in.
+
+Spent most of the weekend working on the optimization task, it seems to be fairly slow going, as refactoring code seems to take up more time than the writeup.
 
 ### Problems I encountered this week:
+* No productivity on group game due to snow
+* I feel a bit behind on my dissertation, as I have no results yet, and there is a presentation coming up very soon for it.
+* There is so much work that needs to get done in parallel, its getting rather overwhelming.
 
 
 ### How I aim to overcome this tissues:
+* Next week I will dedicate more of my time to the group game, and dissertation.
+* I will aim to spend the start of the week on the group game, and the rest of the week working on dissertation stuff, ready for the presentation.
+* I will try and spend a few nights in the campus library to work on the dissertation stuff.
 
+
+## Week Six
+ Monday..
 
 
