@@ -85,6 +85,7 @@ Spent the rest of the week working on various tasks.
 
 ## Week Five
 Monday we had peer review of optimization task, and had to reschedule my supervisor meeting for a while.
+
 Tuesday I spent at home working on my website and CV as the peer review for that is fairly soon.
 
 Wednesday I went to Gareth's lecture, where we went over other peers CVs and websites, then got snowed in the studio and spend Thursday at home because I couldn't get to studio.
@@ -106,6 +107,26 @@ Spent most of the weekend working on the optimization task, it seems to be fairl
 
 
 ## Week Six
- Monday..
+Monday I spent 9-5 in the studio, doing a little bit of work on everything. I got some cell shading working in unity, but I didn't speak to the team about the game really, I just kinda worked on my own.
+
+Tuesday I spent 9-2 in the studio mainly working on website stuff, as that is really enjoyable, and a nice break from the other work that is getting quite rough atm.
+
+Wednesday we had a lecture with Gareth about how to network in the industry, this was super insightful, as Gareth seems to know his stuff.
+
+Thursday I spent working on the dissertation artefact, and made some progress with the rendering of the agents positions.
+
+Friday I started trying to load some basic data into R, but it takes so long to do anything in R, as they tried to make it easy to do stuff, but I keep running into edge cases that take me ages to work out how to fix.
+
+### Problems I encountered this week:
+* Struggling to load stuff into R
+* Not sure what content to put in my slides for Monday, as I don't really have any results yet.
+* I have been thinking about changing my dissertation topic slightly, towards modifications to MCTS, rather than different tree search techniques.
+
+### How I aim to overcome these issues:
+* I will look over the slides from the previous weeks on statistical analysis, to see what I can put into the slides.
+* Over the weekend I will try and get some basic graphs for the presentation.
+* I will speak to Ed on Monday to discuss how I can take my dissertation forward.
+
+## Week Seven
 
 
