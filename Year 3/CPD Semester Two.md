@@ -128,5 +128,18 @@ Friday I started trying to load some basic data into R, but it takes so long to 
 * I will speak to Ed on Monday to discuss how I can take my dissertation forward.
 
 ## Week Seven
+I spent the weekend stressing over my dissertation, because I was unsure where to take it, and I still needed results for Monday.
+I had a meeting with Ed on Monday, where I decided to focus my dissertation on MCTS modifications. The presentation wasn't as bad as I was expecting.
+The group game seems to be falling apart again, as me, Tom and Sam were the only ones in the studio all day, and rich sent a strongly worded email to the team about attendance.
+
+We also got an email about the peer review for the market research, which was on my timetable for next week, has been moved to Tuesday, so it's gunna be another busy night working on my website and market evaluation.
+
+Tuesday we had a crit with Dom, and a peer review of the market evaluation
+
+### Problems I encountered this week:
+* 
+
+### How I aim to overcome these issues:
+
 
 
