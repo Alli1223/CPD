@@ -134,12 +134,26 @@ The group game seems to be falling apart again, as me, Tom and Sam were the only
 
 We also got an email about the peer review for the market research, which was on my timetable for next week, has been moved to Tuesday, so it's gunna be another busy night working on my website and market evaluation.
 
-Tuesday we had a crit with Dom, and a peer review of the market evaluation
+Tuesday we had a peer review of the market evaluation forms.
+
+Wednesday was the 3rd year show and tell, which was kind of embarrassing, as my team put almost 0 effort into the trailer. And they seemed to have cut the trailer off while doing the presentation, so all our work, and gameplay wasn't showed. I'm glad that we're not getting marked on that.
+
+Thursday I decided to stay home and get some work done on the market evaluation and website. 
+Friday I worked on the dissertation, to try and get some results, although I did come up with the idea of running the simulations on my server, so I am now running the thousands of games on my cloud Linux server, which should get me some results for next week.
+
+Saturday I spent all day in the studio working on shaders for the group game, then spent all night in the library working on the research journal and wiki, as well as a little bit on optimisation and website.
+
+Sunday I spent resting
 
 ### Problems I encountered this week:
-* 
+* Show and tell was awful
+* Still so much work to get done
 
 ### How I aim to overcome these issues:
+* I spent the weekend solidy working on the research journal and wiki, so that is one less thing I have to do next week.
+* The group game shader component is coming along pretty well this week, so I will aim to get that done a bit more over easter.
 
+## Week Eight
+Monday..
 
 
