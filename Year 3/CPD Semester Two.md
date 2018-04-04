@@ -136,7 +136,7 @@ We also got an email about the peer review for the market research, which was on
 
 Tuesday we had a peer review of the market evaluation forms.
 
-Wednesday was the 3rd year show and tell, which was kind of embarrassing, as my team put almost 0 effort into the trailer. And they seemed to have cut the trailer off while doing the presentation, so all our work, and gameplay wasn't showed. I'm glad that we're not getting marked on that.
+Wednesday was the 3rd year show and tell, which was kind of embarrassing, as my team put very little effort into the trailer. And they seemed to have cut the trailer off while doing the presentation, so all our work, and gameplay wasn't showed.
 
 Thursday I decided to stay home and get some work done on the market evaluation and website. 
 Friday I worked on the dissertation, to try and get some results, although I did come up with the idea of running the simulations on my server, so I am now running the thousands of games on my cloud Linux server, which should get me some results for next week.
@@ -154,6 +154,21 @@ Sunday I spent resting
 * The group game shader component is coming along pretty well this week, so I will aim to get that done a bit more over easter.
 
 ## Week Eight
-Monday..
+* Monday we had optimisation peer review
+* Tuesday was spent working on Market evaluation and had a peer review for that.
+* Rest of the week was spent polishing the optimisation and market evaluation.
 
+## Easter Break Week 1
+Spend this week traveling home and spend it with my family
+
+## Easter Break Week 2
+Spent the start of the week working on a new programming project, which I know is poor timing, I just had a really nice idea for a game that I wanted to work on. 
+
+Wednesday I spent in the library working on the optimisation and dissertation projects.
+
+### Problems I encountered over the holidays:
+* Motivation issues, i.e. lack of focus to spend time programming on uni work.
+
+## Week Nine
+Monday had a Peer review for Optimisation task and a supervisor meeting
 
