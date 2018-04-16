@@ -154,9 +154,9 @@ Sunday I spent resting
 * The group game shader component is coming along pretty well this week, so I will aim to get that done a bit more over easter.
 
 ## Week Eight
-* Monday we had optimisation peer review
+* Monday we had optimisation research peer review
 * Tuesday was spent working on Market evaluation and had a peer review for that.
-* Rest of the week was spent polishing the optimisation and market evaluation.
+* Rest of the week was spent polishing the optimisation research and market evaluation.
 
 ## Easter Break Week 1
 Spend this week traveling home and spend it with my family
@@ -171,4 +171,20 @@ Wednesday I spent in the library working on the optimisation and dissertation pr
 
 ## Week Nine
 Monday had a Peer review for Optimisation task and a supervisor meeting
+Tuesday and wednesday I was in the studio working on the group game from 10-5, and also working on the disseratation and optimisation task.
+Thursday I was working on dissertation stuff to start getting results, we also had a PO meeting for the group game, which is actially starting to make some good progress, as the game can actually be finished now.
+Friday was spent working on optimisation for the hand in at 5, I found it quite hard to document all the changes that I made to the game, as there were a lot of minor changes that were left undocumented.
 
+### Problems I encountered this week:
+* Spent a lot of the week trying to get shaders working for the group game, as nothing of mine has been put into the game yet.
+* The shaders are taking a lot of time to get working, and am finding it hard to balance time between this, optimisation and dissertation this week.
+
+### How I aim to overcome these issues:
+* Next week I will spend the first half of the week working on dissertation and getting some results that I can start writing about in my dissertation, then the last half of the week I will spend getting the fog of war shader working for the group game.
+
+## Week Ten
+* Monday I spent wokring on dissertation and trying to get some results from my data.
+
+
+### Problems I encountered this week:
+* 
