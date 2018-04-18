@@ -184,7 +184,10 @@ Friday was spent working on optimisation for the hand in at 5, I found it quite 
 
 ## Week Ten
 * Monday I spent wokring on dissertation and trying to get some results from my data.
-
+* Tuesday had supervisor meeting where I realised how behind I am on the dissertation, I have 20 days to et my results nad finish the write up.
+* Wednesday I spent the morning working on the porting task, with no luck, had a lecture in the afternoon, and spent the evening in the studio working on the group game, because apparently we are content locking soon.
+* Thursday..
 
 ### Problems I encountered this week:
-* 
+* Need to spend more time working on dissertation as well as group game.
+I currenly don't have anything in the game that I made yet, and we are content locking soon, so I need to dedicate a lot of this week and next to get my fog of war system working for our game.
