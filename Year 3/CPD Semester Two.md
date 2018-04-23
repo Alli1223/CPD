@@ -171,8 +171,11 @@ Wednesday I spent in the library working on the optimisation and dissertation pr
 
 ## Week Nine
 Monday had a Peer review for Optimisation task and a supervisor meeting
+
 Tuesday and wednesday I was in the studio working on the group game from 10-5, and also working on the disseratation and optimisation task.
+
 Thursday I was working on dissertation stuff to start getting results, we also had a PO meeting for the group game, which is actially starting to make some good progress, as the game can actually be finished now.
+
 Friday was spent working on optimisation for the hand in at 5, I found it quite hard to document all the changes that I made to the game, as there were a lot of minor changes that were left undocumented.
 
 ### Problems I encountered this week:
@@ -183,11 +186,26 @@ Friday was spent working on optimisation for the hand in at 5, I found it quite 
 * Next week I will spend the first half of the week working on dissertation and getting some results that I can start writing about in my dissertation, then the last half of the week I will spend getting the fog of war shader working for the group game.
 
 ## Week Ten
-* Monday I spent wokring on dissertation and trying to get some results from my data.
-* Tuesday had supervisor meeting where I realised how behind I am on the dissertation, I have 20 days to et my results nad finish the write up.
-* Wednesday I spent the morning working on the porting task, with no luck, had a lecture in the afternoon, and spent the evening in the studio working on the group game, because apparently we are content locking soon.
-* Thursday..
+Monday I spent wokring on dissertation and trying to get some results from my data.
+
+Tuesday had supervisor meeting where I realised how behind I am on the dissertation, I have 20 days to et my results nad finish the write up.
+
+Wednesday I spent the morning working on the porting task, with no luck, had a lecture in the afternoon, and spent the evening in the studio working on the group game, because apparently we are content locking soon.
+
+Thursday we had PO meeting with andy, and I spent a while installing ubuntu to the memory sticks ready for this weekened.
+
+Friday I set up the computers in the studio with ubuntu, and started the simulations, to leave for the weekend.
+
+spent the weekend trying to work on disseratation stuff
 
 ### Problems I encountered this week:
 * Need to spend more time working on dissertation as well as group game.
 I currenly don't have anything in the game that I made yet, and we are content locking soon, so I need to dedicate a lot of this week and next to get my fog of war system working for our game.
+* Installing java on the memory sticks too way too long, it took me about 2 hours to install java to get my program running, this was due to ubuntu 17 being broken when running from the memory stick, and had to re-install all the memory sticks with ubuntu 16.04. Further more the version of java that it was compiled with was java jdk 9, which i found is no longer supported, and is now insead java 10.
+* I am currently feeling really fatigued with the disseratation project, I feel like im really behind, and the task ahead in the next two weeks is so daunting to get it all finished.
+* The software artefact isn't anything I am proud of, and it is really messy, hopefully I can tidy it up before submission.
+
+### How I aim to over these issues:
+* notsure :/
+
+## Week Eleven
