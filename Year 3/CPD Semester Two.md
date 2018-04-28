@@ -209,3 +209,28 @@ I currenly don't have anything in the game that I made yet, and we are content l
 * notsure :/
 
 ## Week Eleven
+Monday I arrived in the studio early, to find out that the computers running my simulation had ran out of memory, so I only got the results from 2 games, instead of 100 i'm suppose to get.
+
+Tuesday I had a meeting with Ed, where he said it might be a good idea to write a python program to run the simulations, so each game runs in its own java executable.
+
+Wedensday I was working on the group game project, and finally fixed the shaer issue and commited that to perforce. I then got home and created the python simulaion launcher, which was actually really fun to make, I think I will start getting back into using python, as using concurrency in python was very easy to use.
+
+Thursday I spent working on the group game stuff and trying to get the porting to work, with no luck.
+
+Friday was the group game hand in, where the team said they were going to hand it in on wednesday, they ended up handing it in 5 minutes before the deadline, this was due to a game breaking bug when building the project, which the team really should have done before, not 30mins before the deadline.
+I also spent the rest of the evening with Brian trying to work out why my porting task wasnt working, this was due to the wrong version of phyreEngine being installed for the wrong SDK on the PS4 dev kit.
+I also started learning how to port my game to android.
+
+Saturday I spent working on dissertation stuff
+
+Sunday I..
+
+### Problems I encountered this week:
+* Still have very little to show for the dissertation, with 10 days left!
+* Porting task has creeped up very quickly, and I also have to get that done by monday!
+* Simulations ran out of memory.
+
+### How I aim to overcome these issues:
+* I will aim to write up most of my dissertation over the weekend, as the simulations are currently running, and won't be done for a while.
+* Fixed the memory issue by creating a python program to run the games
+* Need to wait till the weekend to compile the results from the simulations
