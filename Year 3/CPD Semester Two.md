@@ -234,3 +234,8 @@ Sunday I..
 * I will aim to write up most of my dissertation over the weekend, as the simulations are currently running, and won't be done for a while.
 * Fixed the memory issue by creating a python program to run the games
 * Need to wait till the weekend to compile the results from the simulations
+
+### Week twelve
+Monday I spent from 8-6 in the studio working on getting porting task done, however it wasn't up to a very good standard.
+
+Tuesday had a supervisor meeting which was super helpful, and I now have a better idea how to summarize my paper. I also spent the afternoon with Tom, putting the game demo video together.
