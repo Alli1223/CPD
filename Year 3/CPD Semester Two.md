@@ -239,3 +239,14 @@ Sunday I..
 Monday I spent from 8-6 in the studio working on getting porting task done, however it wasn't up to a very good standard.
 
 Tuesday had a supervisor meeting which was super helpful, and I now have a better idea how to summarize my paper. I also spent the afternoon with Tom, putting the game demo video together.
+
+Wednesday I had a rest day, as the last two weeks have been v. stressful, so just needed to chill out a bit, and spend the day customising my laptops ubuntu themes, to make it look beautiful.
+
+Thursday spent all night working on the disertation, and progress is very slow still. Handed in the group game in the morning, I am kind of worried about that submission, as my contribution to the group game is minimal.
+
+Friday spent most of the day resting from thursday, spent friday night working on dissertation again.
+
+### Problems I encountered this week:
+* Minimal contribution to group game submission
+* No user stories for group game
+* Minimal progress towards dissertation
