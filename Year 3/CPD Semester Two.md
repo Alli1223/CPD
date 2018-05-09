@@ -244,9 +244,13 @@ Wednesday I had a rest day, as the last two weeks have been v. stressful, so jus
 
 Thursday spent all night working on the disertation, and progress is very slow still. Handed in the group game in the morning, I am kind of worried about that submission, as my contribution to the group game is minimal.
 
-Friday spent most of the day resting from thursday, spent friday night working on dissertation again.
+Friday spent most of the day resting from thursday, spent friday night working on dissertation again, as well as saturday and sunday.
 
 ### Problems I encountered this week:
 * Minimal contribution to group game submission
 * No user stories for group game
 * Minimal progress towards dissertation
+
+
+### Week thirteen
+Monday 
