@@ -235,7 +235,7 @@ Sunday I..
 * Fixed the memory issue by creating a python program to run the games
 * Need to wait till the weekend to compile the results from the simulations
 
-### Week twelve
+## Week twelve
 Monday I spent from 8-6 in the studio working on getting porting task done, however it wasn't up to a very good standard.
 
 Tuesday had a supervisor meeting which was super helpful, and I now have a better idea how to summarize my paper. I also spent the afternoon with Tom, putting the game demo video together.
@@ -250,3 +250,19 @@ Friday spent most of the day resting from thursday, spent friday night working o
 * Minimal contribution to group game submission
 * No user stories for group game
 * Minimal progress towards dissertation 
+
+## Week thirteen
+Monday was soley spent working on the dissertation, which I actually managed to get a load done for, so it's in a state where I am not ashamed of it.
+
+Tuesday was spent in the studio doing the viva, which didn't go as smoothly as I was expecting, mainly due to my porting task being quite simple.
+
+Wednesday I spent working on the technical poster and getting that submitted.
+
+Thursday..
+
+### Problems I encountered this week:
+* I should have done this work last week, then I would have been able to be fixing errors, not creating them!
+* I think I have a few things missing from my dissertation, with not enough time to add them.
+
+### How I aim to overcome these isses:
+* Set the deadline for myself to be a week before the deadline,thus the work should get done, with time to refine it.
