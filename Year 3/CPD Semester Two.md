@@ -240,29 +240,3 @@ Monday I spent from 8-6 in the studio working on getting porting task done, howe
 
 Tuesday had a supervisor meeting which was super helpful, and I now have a better idea how to summarize my paper. I also spent the afternoon with Tom, putting the game demo video together.
 
-Wednesday I had a rest day, as the last two weeks have been v. stressful, so just needed to chill out a bit, and spend the day customising my laptops ubuntu themes, to make it look beautiful.
-
-Thursday spent all night working on the disertation, and progress is very slow still. Handed in the group game in the morning, I am kind of worried about that submission, as my contribution to the group game is minimal.
-
-Friday spent most of the day resting from thursday, spent friday night working on dissertation again.
-
-### Problems I encountered this week:
-* Minimal contribution to group game submission
-* No user stories for group game
-* Minimal progress towards dissertation 
-
-## Week thirteen
-Monday was soley spent working on the dissertation, which I actually managed to get a load done for, so it's in a state where I am not ashamed of it.
-
-Tuesday was spent in the studio doing the viva, which didn't go as smoothly as I was expecting, mainly due to my porting task being quite simple.
-
-Wednesday I spent working on the technical poster and getting that submitted.
-
-Thursday..
-
-### Problems I encountered this week:
-* I should have done this work last week, then I would have been able to be fixing errors, not creating them!
-* I think I have a few things missing from my dissertation, with not enough time to add them.
-
-### How I aim to overcome these isses:
-* Set the deadline for myself to be a week before the deadline,thus the work should get done, with time to refine it.
